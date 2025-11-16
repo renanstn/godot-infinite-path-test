@@ -20,5 +20,5 @@ mesh = SubResource("BoxMesh_v0iea")
 shape = SubResource("BoxShape3D_cvnsp")
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 0.974629, 0.223828, 0, -0.223828, 0.974629, 0, 1.03435, 1.11801)
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 5.76807, 0.602152, 0.0019536)
 current = true
